@@ -1,6 +1,7 @@
 package use_case.clear_users;
 
-// TODO Complete me
+// TODO done, but check
 
 public interface ClearInputBoundary {
+    void execute();
 }

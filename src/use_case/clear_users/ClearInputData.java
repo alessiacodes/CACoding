@@ -1,6 +1,6 @@
 package use_case.clear_users;
 
-// TODO Complete me
+// chose to not implement
 
 public class ClearInputData {
 }
