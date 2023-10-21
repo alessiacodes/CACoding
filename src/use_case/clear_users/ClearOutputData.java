@@ -1,6 +1,6 @@
 package use_case.clear_users;
 
-// TODO Complete me
+// TODO done, but check
 import java.util.List;
 
 public class ClearOutputData {
